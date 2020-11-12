@@ -1,9 +1,8 @@
 # Junior QA Engineer
 ## Yana Antonyuk
-### Summary:
-####  I am 18 years old student of the College of Bussiness and Law. I am responsive, sociable,
-####  friendly, ready to comprehend new things and develop in various directions, as well as improve in the already acquired knowledge. 
 ### Contact Info: yanaantonyuk001@gmail.com
+### Summary:
+####  I am 18 years old student of the College of Bussiness and Law. I am responsive, sociable, friendly, ready to comprehend new things and develop in various directions, as well as improve in the already acquired knowledge. 
 ### Skills:
 * MySQL
 * HTML
