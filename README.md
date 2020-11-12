@@ -1,2 +1,2 @@
 # solcd-cv
-https://your-github-account.github.io/rsschool-cv/cv
+https://Rascass.github.io/solcd-cv/cv
