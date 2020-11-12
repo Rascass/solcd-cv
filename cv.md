@@ -1,17 +1,24 @@
-What should a Junior QA Engineer Resume contain?
+Junior QA Engineer
+Yana Antonyuk
+Contact Info: yanaantonyuk001@gmail.com
+Summary:
+  I am 18 years old student of the College of Bussiness and Law. I am responsive, sociable,
+  friendly, ready to comprehend new things and develop in various directions, as well as improve in the already acquired knowledge. 
+Skills:
+MySQL
+HTML
+CSS
+JS
+C#
+C++
+Objective-c
+Swift
+Git
+Java
+Experience
+  I took blockchain courses at Blockchain school in Imaguru, in 2019 - 6 months internship at rolling scopes school in the direction of "Mobile development for ios". In 2020 - an internship at Itransition in the .NET direction.
+Education (including courses, seminars, lectures, online learning)
+Languages:
+  English B1, Polish B1
 
-! Important: write your Resume in English
-
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Experience (for a Junior QA it means all kinds of experience: courses, interesting tasks - wherever they had the opportunity to demonstrate skills they have.
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on)
-```
-
-**NOTE!** You are recommended to use real data. However fake data will do too.
 
